@@ -3,7 +3,7 @@
 Meu nome é Laiz e estou em transição de carreira para o mundo da programação e desenvolvimento de software.
 - 🎓 Estou estudando Sistemas de Informação na Universidade Salvador - UNIFACS;
 - 📚 Tenho interesse na área de Full Satck;
-- 🚀 C# | JavaScript | Node.Js | React | Ionic
+- 🚀 C# | JavaScript | Node.Js | React | Angular
 
 ___
 
